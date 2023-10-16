@@ -1,14 +1,14 @@
 # MLGEO2023_iriskern
-# Class Github
+## Class Github
 https://github.com/UW-ESS-DS/MLGeo-2023
 
-# My Favorite Earth Science Topics
+## My Favorite Earth Science Topics
 Marine microbiology, marine water chemistry, metabolomics, marine sediment chemistry
 
-# How To Clone This Repo
+## How To Clone This Repo
 > git clone "https://github.com/UW-ESS-DS/MLGEO2023_iriskern.git" <
 
-# Licensing
+## Licensing
 MIT License
 
 Copyright (c) 2023 UW - Earth and Space Data Sciences
